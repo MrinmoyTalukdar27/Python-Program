@@ -1,2 +1,2 @@
 Al the python program
-From biginning to advance
+From biginner to advance
